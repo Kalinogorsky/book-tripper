@@ -1,6 +1,6 @@
 import logo from './assets/logo.svg';
 import './App.css';
-import { BrowserRouter as Routes, Route, BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import BookChoicePage from './containers/BookChoicePage';
 
 function App() {
